@@ -4,8 +4,8 @@
 ---
 1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
 
-* `for`
-* `&&`, `||`, `!`
+* `for`                 -For es un bucle que sirve para hacer operaciones repetitivas.
+* `&&`, `||`, `!`       -Los operadores logicos son una manera de expresar los valores "y" o "and", "no" o "not", "ó" o "or" que se utilizan para   determinar el tipo de buleano que se quiere obtener en base a si se necesita la aprobacion de una declaracion o de todas dentro de un statement.
 
 2. Desde la carpeta `Prep` en la carpeta donde clonaste el repo, ingresa el comando `npm test JSII.test.js` para correr los tests automatizados. Al principio, todos los tests estarán fallados/rotos. Encontrarás las funciones para hacer pasar los tests en el archivo `homework.js`.
 
