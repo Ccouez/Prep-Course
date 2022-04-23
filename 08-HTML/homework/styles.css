@@ -1,0 +1,28 @@
+html {
+    background-image:url(background.png);
+    text-align: center;
+}
+h1 {
+    color: rgb(0, 133, 88);
+}
+img {
+    width: 400px;
+}
+div {
+    text-align: center;
+    margin: auto;
+}
+#thirdDiv {
+    margin: auto;
+    height: 600px;
+    width: 500px;
+    background-color: aquamarine;
+    padding: 50px;
+    border-style: solid;
+    border-color: rgb(0, 133, 88);
+    border-width: 12px;
+    text-align: center;
+}
+#spanId {
+    margin: 50px;
+}
